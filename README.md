@@ -1,4 +1,4 @@
-# Polymere-Workshop-for-Architects-and-Civil-Engineers
+# Polymère: Workshop for Architects and Civil Engineers
 
 The Masters knew the rules of nature.
 We provide the tools to see them. 
